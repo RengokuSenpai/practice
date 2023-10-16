@@ -1,3 +1,7 @@
+#needs a user interface
+#take more then 2 numbers
+#finish while loop implementation
+
 def sum():
     first_num = float(input('Please enter your first number: '))
     second_num = float(input('Please enter your second number: '))
